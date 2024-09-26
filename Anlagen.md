@@ -1,0 +1,1 @@
+In diesem Git wurde die drei verschiedenen Programme hochgeladen. 325.ipynb wurde auf den Datensatz mit fünf Klassen à 325 Bilder trainiert. 1000.ipynb wurde auf den Datensatz mit vier Klassen à 1.000 Bilder trainiert und 1000_rembg.ipynb wurde auf den selben Datensatz wie 1000.ipynb trainiert, jedoch ohne Hintergrundbild. 
